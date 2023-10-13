@@ -59,7 +59,6 @@ const Navbar = () => {
                   onClick={() => {
                     setToggle(!toggle);
                     setActive(link.title);
-                    alert('hello');
                   }}
                 >
                   <a href={`#${link.id}`}>{link.title}</a>
