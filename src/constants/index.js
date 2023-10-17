@@ -46,7 +46,7 @@ const services = [
     icon: web,
   },
   {
-    title: 'React Native Developer',
+    title: 'React Developer',
     icon: mobile,
   },
   {
@@ -54,7 +54,7 @@ const services = [
     icon: backend,
   },
   {
-    title: 'Content Creator',
+    title: 'Frontend Developer',
     icon: creator,
   },
 ];
@@ -116,24 +116,23 @@ const technologies = [
 
 const experiences = [
   {
-    title: 'React.js Developer',
-    company_name: 'Starbucks',
+    title: 'Frontend Web Developer',
+    company_name: 'Weborama Nederlands',
     icon: starbucks,
     iconBg: '#383E56',
-    date: 'March 2020 - April 2021',
+    date: 'Dec 2021 - Jul 2023',
     points: [
-      'Developing and maintaining web applications using React.js and other related technologies.',
-      'Collaborating with cross-functional teams including designers, product managers, and other developers to create high-quality products.',
-      'Implementing responsive design and ensuring cross-browser compatibility.',
-      'Participating in code reviews and providing constructive feedback to other developers.',
+      'Worked in Agile team of front- and backend developers.',
+      'Maintain and improve apps: for preview a production-ready assets of multiple styles and sizes on a several websites',
+      'An app for customize different settings for advertisement.',
     ],
   },
   {
-    title: 'React Native Developer',
-    company_name: 'Tesla',
+    title: 'Full stack Developer ',
+    company_name: 'Freelancer',
     icon: tesla,
     iconBg: '#E6DEDD',
-    date: 'Jan 2021 - Feb 2022',
+    date: 'Jan 2020 - Dec 2021',
     points: [
       'Developing and maintaining web applications using React.js and other related technologies.',
       'Collaborating with cross-functional teams including designers, product managers, and other developers to create high-quality products.',
@@ -142,29 +141,14 @@ const experiences = [
     ],
   },
   {
-    title: 'Web Developer',
-    company_name: 'Shopify',
+    title: 'Consulaat van Saudi-Arabië',
+    company_name: 'Tasheel',
     icon: shopify,
     iconBg: '#383E56',
-    date: 'Jan 2022 - Jan 2023',
+    date: 'Jan 2019 - Jan 2020',
     points: [
-      'Developing and maintaining web applications using React.js and other related technologies.',
-      'Collaborating with cross-functional teams including designers, product managers, and other developers to create high-quality products.',
-      'Implementing responsive design and ensuring cross-browser compatibility.',
-      'Participating in code reviews and providing constructive feedback to other developers.',
-    ],
-  },
-  {
-    title: 'Full stack Developer',
-    company_name: 'Meta',
-    icon: meta,
-    iconBg: '#E6DEDD',
-    date: 'Jan 2023 - Present',
-    points: [
-      'Developing and maintaining web applications using React.js and other related technologies.',
-      'Collaborating with cross-functional teams including designers, product managers, and other developers to create high-quality products.',
-      'Implementing responsive design and ensuring cross-browser compatibility.',
-      'Participating in code reviews and providing constructive feedback to other developers.',
+      'Clients services and helping them to solve the problem by applying to get the visa.',
+      'Collaborating with the team to find the best strategy to solve the problems.',
     ],
   },
 ];
@@ -198,7 +182,7 @@ const testimonials = [
 
 const projects = [
   {
-    name: 'Car Rent',
+    name: 'Festival 32',
     description:
       'Web-based platform that allows users to search, book, and manage car rentals from various providers, providing a convenient and efficient solution for transportation needs.',
     tags: [
