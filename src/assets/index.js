@@ -26,9 +26,9 @@ import shopify from './company/icons8-stack-correctly-48.png';
 import starbucks from './company/icons8-front-end-64.png';
 import tesla from './company/icons8-full-stack-64.png';
 
-import carrent from './carrent.png';
-import jobit from './jobit.png';
-import tripguide from './tripguide.png';
+import carrent from './Festival32.png';
+import jobit from './Quiz.png';
+import tripguide from './Uber-Clone.png';
 
 export {
   logo,

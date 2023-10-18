@@ -191,58 +191,58 @@ const projects = [
         color: 'blue-text-gradient',
       },
       {
-        name: 'mongodb',
+        name: 'node.js',
         color: 'green-text-gradient',
       },
       {
-        name: 'tailwind',
+        name: 'MongoDB',
         color: 'pink-text-gradient',
       },
     ],
     image: carrent,
-    source_code_link: 'https://github.com/',
+    source_code_link: 'https://github.com/alqusi1992/fesitval-32-team',
   },
   {
-    name: 'Job IT',
+    name: 'Quiz-Maker-Project',
     description:
-      'Web application that enables users to search for job openings, view estimated salary ranges for positions, and locate available jobs based on their current location.',
+      'The Quiz-Maker Project is a straightforward web application  to create and take quizzes. Users can select their answers of questions, and at the end of the quiz, they receive their results along with a score.',
     tags: [
       {
-        name: 'react',
+        name: 'Javascript',
         color: 'blue-text-gradient',
       },
       {
-        name: 'restapi',
+        name: 'JSDOM',
         color: 'green-text-gradient',
       },
       {
-        name: 'scss',
+        name: 'HTML,CSS',
         color: 'pink-text-gradient',
       },
     ],
     image: jobit,
-    source_code_link: 'https://github.com/',
+    source_code_link: 'https://gifted-payne-22989f.netlify.app/',
   },
   {
-    name: 'Trip Guide',
+    name: 'Uber-Clone',
     description:
-      'A comprehensive travel booking platform that allows users to book flights, hotels, and rental cars, and offers curated recommendations for popular destinations.',
+      'The Uber-Clone Project is a web application that faithfully replicates the design and functionality of Uber official website.',
     tags: [
       {
-        name: 'nextjs',
+        name: 'HTML',
         color: 'blue-text-gradient',
       },
       {
-        name: 'supabase',
+        name: 'CSS',
         color: 'green-text-gradient',
       },
       {
-        name: 'css',
+        name: 'Responsive',
         color: 'pink-text-gradient',
       },
     ],
     image: tripguide,
-    source_code_link: 'https://github.com/',
+    source_code_link: 'https://github.com/alqusi1992/HYF-Module-HTMLCSSGIT/tree/main/Week-3',
   },
 ];
 
